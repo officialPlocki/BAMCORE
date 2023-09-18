@@ -1,0 +1,17 @@
+name: BAMCore
+author: plocki, BuildAndMine Development Team
+version: 1.0
+main: de.buildandmine.core.main.Main
+commands:
+  fly:
+  gm:
+  gamemode:
+  night:
+  day:
+  tp:
+  tphere:
+  v:
+  vanish:
+  cc:
+  chatclear:
+  clearchat:
